@@ -5,8 +5,8 @@
 ## 功能描述
 - 用户提交留言内容
 - 输入验证码
-- 管理员回复
+- 管理员回复 Name:admin Password:admin888
 - 添加表情图
 
 ## 在线访问
-🌐 浏览网址：[点击进入](https://http://xugang.ct.ws/)
+🌐 浏览网址：[点击进入](https://xugang.ct.ws/)
