@@ -1,2 +1,12 @@
-# guestbook
-# guestbook
+# 留言板
+
+![界面截图](screenshot.jpeg)
+
+## 功能描述
+- 用户提交留言内容
+- 输入验证码
+- 管理员回复
+- 添加表情图
+
+## 在线访问
+🌐 浏览网址：[点击进入](https://http://xugang.ct.ws/)
